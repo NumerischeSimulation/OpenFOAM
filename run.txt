@@ -1,0 +1,7 @@
+blockMesh
+paraFoam
+# wireframe
+
+icoFoam
+paraFoam
+# surface, point p
